@@ -1,0 +1,66 @@
+# C# / .NET – Ignore Padrão
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Bb]uild[Ll]og.*
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# JetBrains Rider / ReSharper
+.idea/
+.sln.iml
+_ReSharper*/
+*.DotSettings.user
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Testes e cobertura
+[Tt]est[Rr]esult*/
+[Tt]est[Rr]esults*/
+[Bb]enchmarkDotNet.Artifacts/
+coverage/
+coverage*.xml
+*.coverage
+*.coveragexml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# LibMan (bibliotecas cliente)
+wwwroot/lib/
+
+# Arquivos temporários
+*.tmp
+~$*
+*~
+
+# Outros
+node_modules/
+*.dbmdl
+*.pfx
+*.publishsettings
+*.psess
+*.vsp
+*.vspx
+
+# Arquivos específicos de SO
+.DS_Store
+Thumbs.db

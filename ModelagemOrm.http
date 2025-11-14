@@ -1,0 +1,6 @@
+@ModelagemOrm_HostAddress = http://localhost:5232
+
+GET {{ModelagemOrm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
