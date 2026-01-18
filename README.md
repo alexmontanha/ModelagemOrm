@@ -176,3 +176,7 @@ Projeto criado para aula de Modelagem ORM. Ajuste conforme necessidades do curso
 ---
 Boas práticas, mudanças de versão ou dúvidas sobre EF Core: https://learn.microsoft.com/ef/core/
 
+## Automation
+
+Teste para o Lumen.us
+
